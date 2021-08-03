@@ -41,4 +41,4 @@ client.on(Event.MESSAGE_CREATE, async (message:Message)=>{
 
 });
 
-client.login("ODcwODk2MzY4Nzk1OTE0MjQw.YQTbcg.38j8IA7BDhRWgeMB3at1VIDPEjI", true);
+client.login(TOKEN, true);
